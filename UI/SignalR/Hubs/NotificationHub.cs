@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.SignalR;
 
-namespace homeautomation.SignalR.Hubs
+namespace homeautomation.ui.SignalR.Hubs
 {
     public class NotificationHub : Hub
     {

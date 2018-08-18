@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace homeautomation.Pages
+namespace homeautomation.ui.Pages
 {
     public class NotificationModel : PageModel
     {

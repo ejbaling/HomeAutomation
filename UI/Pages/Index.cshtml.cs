@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace homeautomation.Pages
+namespace homeautomation.ui.Pages
 {
     public class IndexModel : PageModel
     {
